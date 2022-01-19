@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Jakub</h1>
-<h2 align="center">a web developer</h3>
-
 - All of my projects are available at [https://webjw.infinityfreeapp.com/](https://webjw.infinityfreeapp.com/)
 - How to reach me **webjw.contact@gmail.com**
 

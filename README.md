@@ -24,6 +24,4 @@
   <a title=woocommerce href="https://woocommerce.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/woocommerce-1.svg" alt="woocommerce" width="40" height="40"/> </a>
   <a title=git href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a title=figma href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a title="adobe photoshop" href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a title="adobe xd" href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/> </a>
   </p>

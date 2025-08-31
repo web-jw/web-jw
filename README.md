@@ -2,7 +2,6 @@
 <h3 align="center">a web developer</h3>
 
 - 👨‍💻 Most of my projects are available at [https://jw.cybershipyard.pl/](https://jw.cybershipyard.pl/)
-- 📫 How to reach me [https://jw.cybershipyard.pl/contact](https://jw.cybershipyard.pl/contact)
 - 📖 Currently exploring <a title=react href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="20" height="20"/> </a>
 
 <h3 align="left">Languages and Tools:</h3>
